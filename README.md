@@ -27,3 +27,8 @@ This project is a local chatbot application built without relying on external AP
 - Ollama setup with Qwen-2.5-0.5b model installed
    
 
+### Demo
+
+
+https://github.com/user-attachments/assets/e544d010-324a-40b9-92e9-a3ff39292029
+
