@@ -7,10 +7,6 @@ This project is a local chatbot application built without relying on external AP
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Interactive, responsive chatbot interface.
